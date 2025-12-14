@@ -4,12 +4,10 @@ https://www.google.com/
 https://www.baidu.com/
 
 # personal
-https://github.com/neverwaiting/
+https://github.com/dywsun/
 https://github.com/
-https://blog.zwled.xyz/
-https://nstop.cn/cchess/
+https://blog.wsled.xyz/
 https://app.netlify.com/
-https://nstop.cn/chat/
 
 # video
 https://www.youtube.com/
@@ -111,6 +109,7 @@ https://arch-archive.tuna.tsinghua.edu.cn/2022/12-12/iso/2022.12.01/archlinux-x8
 https://mirrors.tuna.tsinghua.edu.cn/centos/7.9.2009/isos/x86_64/
 
 # vpn
+127.0.0.1:2017
 https://w1.v2free.net/user
 https://getafreenode.com/node.php?uuid=7BB3B62F-5F08-F136-53E7-DB40B92B640C&inviter=EE61E5FF-AA80-6C0D-37E8-3183396F0E35
 https://github.com/freefq/free
@@ -121,10 +120,7 @@ https://proxy.yugogo.xyz/
 https://getafreenode.com/
 https://bianyuan.xyz/
 https://ghproxy.com/https://raw.githubusercontent.com/freefq/free/master/README.md
-https://zwled.zdynstop.workers.dev/204df3a2-a125-4599-8be6-5f969af5a357
 https://monitor.gacjie.cn/page/cloudflare/ipv4.html
-vless://ceabd43c-e03b-4f53-a1bf-03a6195ddfb8@104.17.107.190:80?encryption=none&security=none&sni=bbn.zdynstop.workers.dev&fp=randomized&type=ws&host=bbn.zdynstop.workers.dev&path=%2F%3Fed%3D2560#bbn.zdynstop.workers.dev
-vless://2da94dc1-fe8f-4899-a9c0-90ba74e65f95@skk.moe:8880?encryption=none&security=none&type=ws&host=wsun.zdynstop.workers.dev&path=%2F%3Fed%3D2048#wsun.zdynstop.workers.dev
 
 # typing
 https://monkeytype.com/
@@ -174,6 +170,7 @@ https://www.youtube.com/watch?v=hBo9k8FlrCQ
 
 # proxy github
 https://github.91chi.fun/
+https://ghproxy.cn/
 
 # drawing
 https://www.autodraw.com
@@ -256,5 +253,8 @@ https://www.youtube.com/watch?v=pTFZFxd4hOI
 
 # chatgpt
 https://ora.ai/dashboard
-https://poe.com/
+https://gemini.google.com/
+
+# music website
+https://music.gdstudio.org/
 

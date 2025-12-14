@@ -29195,3 +29195,720 @@ rm -rf .cache/yay/qv2ray
 yay -S qv2ray
 yay -S qv2ray
 l
+ls
+lf
+l
+ls -al
+vim .zprofile
+ls
+ls
+cat .config/zsh/.zshrc
+sudo pacman -S nvm
+nvm -v
+node -v
+npm -v
+ls
+git status
+ls
+cd .config
+ls
+rm -rf nvim
+ls
+ls
+cd
+weath
+ls
+git clone https://github.com/dywusn/nvim_config.git
+git clone https://ghproxy.cn/https://github.com/dywusn/nvim_config.git
+git config list
+cat /etc/hosts
+ls
+.local/bin/github_speed_up
+cat /etc/hosts
+vim .local/bin/github_speed_up
+.local/bin/github_speed_up
+vim .local/bin/github_speed_up
+fg
+fg
+fg
+cat .local/bin/github_speed_up
+curl -fsL "https://sites.ipaddress.com/$url" | grep -oE "<a href=\"https://www\.ipaddress\.com/ipv4/[^>]*>[^<]*</a>" | sed 's/<[^>]*>//g' && printf '\0'
+curl -fsL "https://sites.ipaddress.com/github.com" | grep -oE "<a href=\"https://www\.ipaddress\.com/ipv4/[^>]*>[^<]*</a>" | sed 's/<[^>]*>//g' && printf '\0'
+fg
+curl -fsL "https://sites.ipaddress.com/github.com" | grep -oE "<a href=\"https://www\.ipaddress\.com/ipv4/[^>]*>[^<]*</a>"
+curl -fsL "https://sites.ipaddress.com/github.com" | grep -oE "<a href=\"https://www\.ipaddress\.com/ipv4/[^>]*>[^<]*</a>"
+curl -fsL "https://sites.ipaddress.com/github.com"
+ping sites.ipaddress.com
+curl -fsL bing.com
+curl -fsL "https://sites.ipaddress.com/"
+curl -fsL "https://sites.ipaddress.com/github.com"
+curl -fsL "https://sites.ipaddress.com"
+curl -fsL https://baidu.com
+curl -fsL https://sites.ipaddress.com
+curl -fsLv https://sites.ipaddress.com
+fg
+ls
+git clone https://github.com/dywsun/nvim_config.git
+ls
+ls nvim_config
+mv nvim_config nvim
+mv nvim .config/nvim
+lf .config
+ls
+vim
+vim .config
+ls
+ls
+ls /usr/local/share/
+lf /usr/local/share/
+lfub
+lf -v
+cd
+l
+ls
+vim .zprofile
+ls
+vim .Xauthority
+cd ..
+ls
+cd
+cd .local/share/nvim/lazy/telescope-fzf-native.nvim
+ls
+make -Bbuid
+cd build
+ls
+cd ..
+ls
+cmake -Bbuild && cmake --build build
+ls
+make
+vim .
+vim Makefile
+ls .local/share/fonts/
+ls
+cd .local/share/fonts
+ls
+cd firacode
+ls
+l
+ls /fonts
+grep /fonts ~/.local/share/xorg/Xorg.0.log
+lf ~/.config/
+cd ~/.config/fonts
+cd ~/.config/
+ls
+fcitx5
+fcitx
+lf
+cd
+fcitx
+fcitx5
+sudo pacman -Syyu
+sudo pacman -S fcitx5
+fcitx5
+dbus
+ls
+cls
+lf
+sudo pacman -S adobe-source-han-serif-cn-fonts
+cd
+fc
+cd
+fcitx5-configtool
+fcitx5-config-qt
+lf
+vim .
+ls
+lf
+nvim -v
+ls
+nproc
+htop
+sudo pacman -Ss v2ray
+sudo pacman -S v2raya
+v2raya
+j
+v2raya -h
+v2raya -a
+sudo v2raya
+fg
+ls
+cat .local/bin/github_speed_up
+ping 140.82.113.4
+sudo nvim /etc/hosts
+fg
+fg
+ls
+ping github.com
+ping api.github.com
+ls
+sudo v2raya
+v2raya -v
+v2raya --help
+which v2ray
+v2ray
+sudo v2raya -b /usr/bin/v2ray
+cat /etc/v2raya
+lf /etc/v2raya
+sudo lf /etc/v2raya
+ls /etc/v2raya
+sudo ls /etc/v2raya
+sudo nvim /etc/v2raya/config.json
+v2raya
+v2raya --lite
+brave -h
+brave --help
+brave
+openvpn
+ls
+ep
+ping google.com
+uep
+cls 
+clb
+vim bookmarkdisplay
+cat bookmarkdisplay
+brave --proxy-server="127.0.0.1:20171"
+brave --proxy-server="127.0.0.1:2017"
+brave --proxy-server="127.0.0.1:20172"
+sudo v2raya
+fg
+cd
+ping baidu.com
+ping google.com
+ping google.com
+which up
+which ep
+export https_proxy=http://127.0.0.1:20171 http_proxy=http://127.0.0.1:20171
+ping google.com
+ping google.com
+uep
+ls
+ping github.com
+ls
+ls
+sudo v2raya
+vim
+cat .npmrc
+ping https://registry.com.taobao.org
+ping registry.com.taobao.org
+npm -v
+ls ~/.cache/nvim/
+ls
+vim
+cd .config/nvim
+ls
+vim init.lua
+nvim -v
+sudo pacman -Syyu neovim
+sudo pacman -S neovim
+nvim -v
+lua -v
+nvim -v
+ls
+vim init.lua
+vim init.lua
+ls
+cd
+ls
+clb
+clc
+clb
+l
+./github_speed_up
+cat /etc/hosts
+ping arch
+ls
+l
+cd ..
+ls
+clc
+clb
+l
+cat lfub
+cat cht
+l
+cat cdeditfile
+unix
+cat tutorialvids
+l
+cat kp
+notify-send "hello"
+cd ..
+ls
+lf
+l
+vim .
+l
+lf
+cd
+lf
+ls
+lf
+ls
+cls
+l
+lf
+l
+cd
+cls
+l
+vim bookmarks/urls
+l
+vim bookmarks/urls
+cat bookmarks
+cat bookmarksu
+cat bookmarks/urls
+l
+l bookmarks
+nvim bookmarks/urls
+ls
+l
+cd
+git clone https://github.com/dywsun/archinstall.sh
+git clone https://github.com/dywsun/archinstall.git
+ls
+cd archinstall
+ls
+sh clonerepos.sh
+ls
+clc
+ls
+cd archinstall
+ls
+cd ..
+ls
+cd dwm
+ls
+vim config.def.h
+l
+make && make install
+sudo make && make install
+ls
+git status
+make clean
+git status
+git diff
+l
+git diff
+l
+ls
+cd ..
+l
+clb
+cd
+l
+clb
+getkeys
+lf
+l
+l
+cd ..
+l
+cd src
+ls
+cd ..
+l
+cd ..
+l
+cd .config/zsh
+ls
+vim .zshrc
+cd ..
+l
+cd shell
+ls
+lf
+cat shortcutrc
+efs
+clc
+cd st
+l
+make && make install
+sudo make install
+ls
+git diff
+l
+vim config.def.h
+l
+make clean
+l
+git status
+vim config.def.h
+git diff
+cat config.def.h
+l
+l
+vim config.def.h
+git diff
+l
+l
+cd ..
+l
+cd dwmblocks
+ls
+cat config.h
+cd ..
+ls
+cd dmenu
+cat config.def.h
+vim config.def.h
+make && sudo make install
+ls
+cd Downloads/
+cd
+vim .
+l
+fcitx5
+fcitx5-configtool
+cls
+cd fonts
+l
+cd firacode
+ls
+cd ..
+l
+mv ~/Downloads/Recursive\ \(1\).zip .
+ls
+unzip Recursive\ \(1\).zip -D Recursive
+unzip Recursive\ \(1\).zip
+ls
+rm -rf Recursive\ \(1\).zip
+l
+mkdir Recursive
+mv RecM* Recursive
+l
+rm -rf LICENSE.txt Recursive
+l
+rm -rf README.md
+ls
+l
+cd
+cfv
+ls
+vim init.lua
+l
+lf
+git status
+ls
+ls
+cd
+ls
+l Downloads
+ls
+lf
+l
+l
+rm -rf archinstall
+l
+vim .npmrc
+l
+cfv
+vim init.lua
+l
+clc
+l
+cd dwmblocks
+ls
+vim config.h 
+vim main.c 
+ls
+cd ..
+ls
+cd st
+ls
+vim config.def.h
+l
+git status
+l
+cd ..
+ls
+ls
+l
+lf
+l
+cd ../share/fonts
+cp ~/Downloads/Recursive.zip .
+l
+unzip -h
+unzip -d Recursive Recursive.zip
+l
+cd Recursive
+ls
+l
+l
+less t
+ls
+l
+lf
+clc
+ls
+cat st/config.def.h
+grep Recur st/config.def.h
+grep Re st/config.def.h
+l
+cd dmenu
+ls
+make clean
+l
+vim config.def.h
+make && sudo make install
+make clean
+l
+vim config.def.h
+git status
+git diff
+l
+cd dwm
+cd ..
+l
+cd dwm
+ls
+vim config.def.h
+make && sudo make install && make clean
+l
+l
+vim config.def.h
+l
+make && sudo make install && make clean
+ls
+cd
+ls
+ls
+l
+dmenu -f
+l
+clc
+ls
+l
+cd dwm
+ls
+git diff
+cat config.def.h
+cat config.def.h | grep dmenu
+dmenu -i -l 50 -fn 'RecMonoCasual Nerd Font:size=14'
+echo asdjfks | dmenu -i -l 50 -fn 'RecMonoCasual Nerd Font:size=14'
+ls
+cd ..
+l
+cd dmenu
+ls
+vim config.def.h
+make && sudo make install && make clean
+l
+echo asdjfklasd | dmenu
+ls
+vim dmenu_run
+l
+git status
+l
+make && sudo make install && make clean
+cd ..
+ls
+cd dwm
+ls
+gd
+git status
+cat config.def.h | grep dmenu
+cat config.def.h | grep dmenu -n
+dmenu
+echo asdjflkasd | dmenu
+clb
+vim bookmarkdisplay
+vim dmenuwrap
+fg
+fg
+l
+vim dmenuwrap
+ls
+ls
+l
+cd
+l
+sudo v2raya
+sudo v2raya
+sudo v2raya
+sudo v2raya
+ps -ef 
+ps -ef | grep v2ray
+ls
+ps -ef | grep v2raya
+sudo v2ray
+l virtualbox/machines
+sudo pacman -S virtualbox
+sudo pacman -S virtualbox --noconfirm
+ls
+clb
+cls
+vim bookmarks/urls
+sudo v2raya
+sudo v2raya
+l
+clb
+l
+lf
+l
+lf
+l
+netstat -tan
+l
+cd Downloads
+l
+rm -rf *
+l
+l
+cd
+l
+nvim
+cls
+cd nvim
+ls
+rm -rf tree-sitter-javascript.tar.gz tree-sitter-typescript.tar.gz
+l
+l tree-sitter-make
+rm -rf tree-sitter-make
+l
+vim
+vim 
+l
+rm -rf tree-sitter-typescript.tar.gz
+vim 
+l
+echo $http_proxy
+which ep
+l
+rm -rf tree-sitter-typescript.tar.gz
+ls
+vim
+vim
+l
+rm -rf tree-sitter-typescript.tar.gz
+ls
+cd
+l
+l
+l
+vim .zprofile
+vim .zprofile
+vim .zprofile
+vim .zprofile
+l
+cd
+l
+cat .zprofile
+l
+cat -h
+cat --help
+read -i"asjdfklas"
+read -p"dsafjklsd"
+ls
+l
+cat .Xauthority
+l
+l
+l
+echo $HOSTNAME
+l
+which ep
+l
+ls
+l
+vim 
+vim 
+l
+l
+l
+ps | grep v2raya
+ps -ef | grep v2raya
+ps -ef | grep v2raya
+ps -ef | grep v2raya | grep -v color
+ps -ef | grep v2raya | grep -v color
+netstat -tan
+netstat -tan
+l
+cls
+clc
+cd dwm
+ls
+vim config.def.h
+make && sudo make install && make clean
+ls
+vim config.def.h
+make && sudo make install && make clean
+vim config.def.h
+virtualbox
+vim .zprofile
+clc
+cd dwmblocks
+ls
+cd
+cd .config/shell
+ls
+vim profile
+lf
+lf
+cls
+ls
+clc
+ls
+cd
+l
+l .config/x11
+l .config/x11/xprofile
+cat .config/x11/xprofile
+pidof -s v2raya
+pidof -s v2raya || v2raya & >/dev/null 2>&1
+pwd
+ls
+picom
+sudo v2raya & >/dev/null 2>&1
+sudo v2raya & >/dev/null 2>&1
+fg
+sudo v2raya &
+ls
+pwd
+l
+pidof -s v2raya
+l
+fg
+ls
+ls
+l
+vim .config/x11/xprofile
+ps -ef 
+pidof -s v2raya
+ls
+ls
+cfv
+vim init.lua
+vim init.lua
+vim init.lua
+vim init.lua
+vim init.lua
+ls
+vim 
+l
+l
+clb
+vim dmenuwrap
+fcitx5-configtool
+fg
+cls
+vim bookmarks/urls
+vim
+l
+cd
+vim
+l
+l
+lf
+vim
+fcitx5-configtool
+clc
+cd st
+ls
+vim config.def.h
+make && sudo make install && make clean
+l
+l
+fg

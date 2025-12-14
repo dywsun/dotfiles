@@ -9,6 +9,7 @@ for url in ${urls[*]}; do
       sed -i "/$url/d" /etc/hosts
       echo "$ip $url is added!"
       echo "$ip" "$url" >> /etc/hosts
+      echo "$ip" "$url"
     fi
   done
 done
