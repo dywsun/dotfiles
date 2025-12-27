@@ -24,10 +24,10 @@
     # dynamic width from 0 to 300
     # width = (0, 300)
     # constant width of 300
-    width = 370
+    width = 620
 
     # The maximum height of a single notification, excluding the frame.
-    height = 350
+    height = 500
 
     # Position the notification in the top right corner
     origin = top-right
@@ -68,7 +68,7 @@
     # The transparency of the window.  Range: [0; 100].
     # This option will only work if a compositing window manager is
     # present (e.g. xcompmgr, compiz, etc.). (X11 only)
-    transparency = 25
+    transparency = 10
 
     # Draw a line of "separator_height" pixel height between two
     # notifications.
@@ -118,7 +118,7 @@
 
     ### Text ###
 
-    font = CaskaydiaCove Nerd Font 12
+    font = RecMonoCasual Nerd Font 14
 
     # The spacing between lines.  If the height is smaller than the
     # font height, it will get raised to the font height.
@@ -315,8 +315,10 @@
     #default_icon = /path/to/icon
 
 [urgency_normal]
-    foreground = "#ebdbb2"
-    background = "#458588"
+    # foreground = "#CEC6B6"
+    # background = "#45545F"
+    foreground = "#EDEBE4"
+    background = "#417CA9"
     timeout = 5
     # Icon for notifications with normal urgency, uncomment to enable
     #default_icon = /path/to/icon
